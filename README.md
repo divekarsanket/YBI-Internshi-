@@ -1,2 +1,2 @@
-# YBI-Internshi-
+# YBI-Internship
 YBI projects 
